@@ -10,7 +10,7 @@ const Header = props => (
       <div className="inner">
         <h1>Summerside Community Choir</h1>
         <p>
-          A fully responsive site template designed by{' '}
+          PEI's longest-running community choir{' '}
           <a href="https://html5up.net">HTML5 UP</a> and released
           <br />
           for free under the{' '}
