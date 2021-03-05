@@ -96,13 +96,9 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
-            eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam
-            erat volutpat. Praesent urna nisi, fringila lorem et vehicula
-            lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
-            Aliquam libero et malesuada fames ac ante ipsum primis in faucibus.
-            Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit
-            amet.
+            The Summerside Community Choir is an open membership, mixed-voice community choir who welcomes new members at the beginning of each term to work towards an end-of-term concert. We perform two Christmas concerts in December and two spring concerts in May or June and may have extra events throughout the term.
+
+In 1978, Bill Leuty had a dream to start a community choir in Summerside, PEI, Canada.  He was able to make this dream a reality, and in 2018 the 50-plus member Summerside Community Choir celebrated forty years of choral music.
           </p>
           {close}
         </article>
