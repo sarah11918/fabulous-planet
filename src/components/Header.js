@@ -38,7 +38,7 @@ const Header = props => (
               props.onOpenArticle('about')
             }}
           >
-            About
+            About Us
           </button>
         </li>
         <li>
