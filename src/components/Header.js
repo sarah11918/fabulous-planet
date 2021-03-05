@@ -11,10 +11,6 @@ const Header = props => (
         <h1>Summerside Community Choir</h1>
         <p>
           PEI's longest-running community choir{' '}
-          <a href="https://html5up.net">HTML5 UP</a> and released
-          <br />
-          for free under the{' '}
-          <a href="https://html5up.net/license">Creative Commons</a> license.
         </p>
       </div>
     </div>
