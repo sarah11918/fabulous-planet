@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Summerside Community Choir - PEI Canada',
     author: 'SCC',
-    description: ' by HTML5 UP',
+    description: 'The longest running community choir on PEI',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
