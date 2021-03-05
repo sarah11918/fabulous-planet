@@ -38,7 +38,7 @@ const Header = props => (
               props.onOpenArticle('about')
             }}
           >
-            about the choir
+            about
           </button>
         </li>
         <li>
