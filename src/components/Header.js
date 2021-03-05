@@ -29,7 +29,7 @@ const Header = props => (
               props.onOpenArticle('work')
             }}
           >
-            join
+            singwith
           </button>
         </li>
         <li>
