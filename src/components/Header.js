@@ -10,7 +10,7 @@ const Header = props => (
       <div className="inner">
         <h1>Summerside Community Choir</h1>
         <p>
-          PEI's longest-running community choir{' '}
+          PEI's longest-running community choir
         </p>
       </div>
     </div>
