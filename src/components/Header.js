@@ -29,7 +29,7 @@ const Header = props => (
               props.onOpenArticle('work')
             }}
           >
-            singwith
+            singwithus
           </button>
         </li>
         <li>
