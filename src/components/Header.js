@@ -29,7 +29,7 @@ const Header = props => (
               props.onOpenArticle('work')
             }}
           >
-            JoinThe
+            JoinTheChoir
           </button>
         </li>
         <li>
