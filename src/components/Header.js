@@ -20,7 +20,7 @@ const Header = props => (
               props.onOpenArticle('intro')
             }}
           >
-            Concerts
+            calendar
           </button>
         </li>
         <li>
