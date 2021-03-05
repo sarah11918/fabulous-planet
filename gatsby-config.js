@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Summerside Community Choir - PEI Canada',
-    author: 'Hunter Chang',
+    author: 'SCC',
     description: 'A Gatsby.js V2 Starter based on Dimension by HTML5 UP',
   },
   plugins: [
